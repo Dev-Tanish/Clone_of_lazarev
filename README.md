@@ -14,7 +14,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720]()
+![mockup720](https://github.com/Dev-Tanish/Clone_of_lazarev/blob/main/Screenshot%202024-07-08%20174558.png)
 ![ss]()
 
 
