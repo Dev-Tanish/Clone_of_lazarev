@@ -182,14 +182,14 @@ function page6Animations() {
     })
 }
 
-locomotiveAnimation()
+locomotiveAnimation() // This is the funtion for smooth scrolling on Website 
 
-navAnimation()
+navAnimation() // This is for Navbar animation 
 
-page2Animation()
+page2Animation()  //  Page 2 circullar image Hover animation 
 
-page3VideoAnimation()
+page3VideoAnimation()  // Video Animation 
 
-page6Animations()
+page6Animations() // Last page animation 
 
-loadingAnimation()
+loadingAnimation()  //This is Main loading Anamitation 
